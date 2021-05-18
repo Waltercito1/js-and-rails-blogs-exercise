@@ -18,7 +18,7 @@
 
 - Use the return value from the fetch call to add the new blog on the page.
 
-- `No page refreshed should ever happen`
+- `No page refresh should ever happen`
 
 ## BONUS
 
